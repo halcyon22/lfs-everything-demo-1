@@ -4,3 +4,5 @@ This repo demonstrates the behavior of `git lfs migrate import --everything --in
 Add a file to be migrated.
 ## Step 2
 Modify the file to be migrated.
+## Step 3
+Add a file to be migrated on a branch.
